@@ -2,7 +2,9 @@
 
 ## Team Members:
 Rod Hoda
+
 Furqan Kassa
+
 Austin Losik
 
 ## Design Analysis
